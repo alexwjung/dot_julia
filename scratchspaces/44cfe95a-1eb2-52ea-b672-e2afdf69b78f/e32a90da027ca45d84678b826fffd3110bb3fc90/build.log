@@ -1,0 +1,3 @@
+┌ Info: CONDA_EXE not found. Reverting to default in ROOTENV
+│   CONDA_EXE = "/root/.julia/conda/3/x86_64/bin/conda"
+└   ROOTENV = "/root/.julia/conda/3/x86_64"
